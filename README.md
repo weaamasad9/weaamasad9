@@ -44,6 +44,7 @@ Data Structures, Algorithms, Operating Systems, OOP, programming skills
 
 - ♟️ **Chess Game in C++** – Full implementation of chess with object-oriented design and GUI.
 - 🛒 **Door Shop Website** – A 4-layer web ordering system for custom door selection and ordering.
+- ** Java Projects :Tic-Tac-Toe & Connect Four Game Framework** 
 
 ---
 
