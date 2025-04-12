@@ -8,7 +8,8 @@
 - 👨‍🏫 I teach networking & Python at the Cyber Education Center, preparing students for elite IDF units.
 - 🌱 I’m currently learning **Operating Systems**, **Linux**, and **Ubuntu** environments.
 - 💬 Ask me about **Socket Programming**, **C++**, **Python**, **Web Development**, and **Network Protocols**.
-- 📫 How to reach me: **weaamasad9@gmail.com**
+- 🚀 Motivated, curious, and always up for a challenge — especially when it comes to building projects from scratch.
+- 📚 I have strong self-learning skills and a passion for technology and innovation.
 - 📂 All my projects are available at: [GitHub](https://github.com/weaamasad9)
 
 ---
@@ -19,13 +20,13 @@
 Python, C++, C, Java, HTML, JavaScript, CSS
 
 **Networking & Systems:**  
-DNS, TCP, UDP, HTTP, ICMP, IP, Socket Programming, Linux, Ubuntu
+DNS, TCP, UDP, HTTP, ICMP, IP, Socket Programming, Linux, Ubuntu, wiershark, Fiddler..
 
 **Development Tools:**  
 PyCharm, VS Code, Spyder, Eclipse
 
 **Academic Knowledge:**  
-Data Structures, Algorithms, Operating Systems
+Data Structures, Algorithms, Operating Systems, OOP, programming skills
 
 ---
 
