@@ -10,7 +10,7 @@
 - 💬 Ask me about **Socket Programming**, **C++**, **Python**, **Web Development**, and **Network Protocols**.
 - 🚀 Motivated, curious, and always up for a challenge — especially when it comes to building projects from scratch.
 - 📚 I have strong self-learning skills and a passion for technology and innovation.
-- 📂 All my projects are available at: [GitHub](https://github.com/weaamasad9)
+- 📂 My resume is at : [Weaam_Resume](file:///C:/Users/Weaam%20Asad/Downloads/WeaamAsadResume1.pdf)
 
 ---
 
