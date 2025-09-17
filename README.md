@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **academic and personal software projects** focused on system design, networking, and development.
 - 👨‍🏫 I teach networking & Python at the Cyber Education Center, preparing students for elite IDF units.
-- 🌱 I’m currently learning **Operating Systems**, **Linux**, and **Ubuntu** environments.
+- 🌱 I’m  learning every day a new thing and hands on different zones
 - 💬 Ask me about **Socket Programming**, **C++**, **Python**, **Web Development**, and **Network Protocols**.
 - 🚀 Motivated, curious, and always up for a challenge — especially when it comes to building projects from scratch.
 - 📚 I have strong self-learning skills and a passion for technology and innovation.
