@@ -17,7 +17,7 @@
 ### 🚀 Skills
 
 **Programming Languages:**  
-Python, C++, C, Java, HTML, JavaScript, CSS
+Python, C++, C, Java, HTML, JavaScript, CSS 
 
 **Networking & Systems:**  
 DNS, TCP, UDP, HTTP, ICMP, IP, Socket Programming, Linux, Ubuntu, wiershark, Fiddler..
